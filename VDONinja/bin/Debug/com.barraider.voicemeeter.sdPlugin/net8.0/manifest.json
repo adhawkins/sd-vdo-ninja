@@ -1,0 +1,23 @@
+{
+	"Actions": [
+	],
+	"Author": "ADHawkins",
+	"Description": "VDO.Ninja plugin",
+	"Name": "VDO.Ninja integration",
+	"Icon": "Images/pluginIcon",
+	"URL": "https://fill.this.in/",
+	"Version": "1.0",
+	"CodePath": "org.uk.gently.vdoninja",
+	"Category": "VDO.Ninja [ADHawkins]",
+	"CategoryIcon": "Images/categoryIcon",
+	"OS": [
+	  {
+		"Platform": "windows",
+		"MinimumVersion": "10"
+	  }
+	],
+	"SDKVersion": 2,
+	"Software": {
+	  "MinimumVersion": "6.0"
+	}
+  }

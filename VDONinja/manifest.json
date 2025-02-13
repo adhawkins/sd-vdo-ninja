@@ -1,0 +1,38 @@
+{
+	"Actions": [
+		{
+			"Icon": "Images/icon",
+			"Name": "Modify Setting",
+			"States": [
+				{
+					"Image": "Images/vdoninja",
+					"TitleAlignment": "middle",
+					"FontSize": "12"
+				}
+			],
+			"SupportedInMultiActions": true,
+			"Tooltip": "Modify Settings - Allows you to modify various VDO.Ninja settings",
+			"UUID": "uk.org.gently.vdoninjamodify",
+			"PropertyInspectorPath": "PropertyInspector/Modify.html"
+		}
+	],
+	"Author": "ADHawkins",
+	"Description": "VDO.Ninja plugin",
+	"Name": "VDO.Ninja integration",
+	"Icon": "Images/pluginIcon",
+	"URL": "https://fill.this.in/",
+	"Version": "1.0",
+	"CodePath": "uk.org.gently.vdoninja",
+	"Category": "VDO.Ninja [ADHawkins]",
+	"CategoryIcon": "Images/categoryIcon",
+	"OS": [
+		{
+			"Platform": "windows",
+			"MinimumVersion": "10"
+		}
+	],
+	"SDKVersion": 2,
+	"Software": {
+		"MinimumVersion": "6.0"
+	}
+}
